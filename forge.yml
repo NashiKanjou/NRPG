@@ -1,0 +1,13 @@
+max:
+	slot: 
+Random:
+    tier:
+        0:
+        ...
+        5:
+technique:
+	slot:
+		tier:
+			0:
+			...
+			24:

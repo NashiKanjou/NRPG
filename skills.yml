@@ -1,0 +1,9 @@
+Skillname:
+  Info:
+    var: double
+    CostMP: double
+  Description: String
+  Difficulty: int
+  Times: int
+  general: boolean
+  

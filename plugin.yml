@@ -1,0 +1,37 @@
+main: nashi.NRPG.Main
+api-version: 1.14
+name: NRPG
+version: '2.0'
+description: RPG plugin with potion, races and skills
+softdepend:
+- MythicMobs
+- ProtocolLib
+author: Nashi
+commands:
+  nrpg:
+    description: base command
+    usage: /nrpg
+  stat:
+    description: stat command
+    usage: /stat
+  skilledit:
+    description: edit skill command
+    usage: /skilledit <skillname>
+  cast:
+    description: change cast time command
+    usage: /cast ticks
+  slot:
+    description: modify skillslot command
+    usage: /slot <slot> <skillname>
+  scale:
+    description: modify heal scale command
+    usage: /scale <scale>
+  abandon:
+    description: abandon skill command
+    usage: /abandon <skillname>
+  reset:
+    description: reset command
+    usage: /reset
+  race:
+    description: race command
+    usage: /race

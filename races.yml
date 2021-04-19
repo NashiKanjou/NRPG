@@ -1,0 +1,44 @@
+RaceName:
+  default: true
+  DisplayName:
+  Info: 
+  SkillList:
+  - skillname
+  Mod:
+    Slot:
+    ATK:
+    LUK:
+    Speed:
+    MP:
+    HP:
+  Items:
+    Helmet: 
+      enable: true
+      DisplayName: 
+      Material: 
+      Color: r,g,b
+      damage: 
+    Chestplate: 
+      enable: true
+      DisplayName: 
+      Material: 
+      Color: r,g,b
+      damage: 
+    Leggings: 
+      enable: true
+      DisplayName: 
+      Material: 
+      Color: r,g,b 
+      damage: 
+    Boots: 
+      enable: true
+      DisplayName: 
+      Material: 
+      Color: r,g,b
+      damage: 
+    OffHand: 
+      enable: true
+      DisplayName: 
+      Material: 
+      Color: r,g,b
+      damage: 

@@ -1,0 +1,38 @@
+ManaDamage: 10
+TimeLimit: 60000
+SpeedMod: 0.015
+HPMod: 1
+MPMod: 1
+LUKAVD: 5
+LUKCRIT: 10
+BaseHP: 100
+BaseMP: 50
+BaseSpeed: 0.2
+ATKMod: 1
+SlotExpandRate: 0
+MaxSlot: 4
+MaxForge: 30
+RateOfNote: 20
+ManaRecover: 15
+HPRecover: 10
+DefaultAttackRange: 2
+HungerDamage: 15
+enableLeftAttack: true
+NoTick: true
+Worlds:
+  - test1
+  - lottery
+LeakArmorMod: 0.1
+ArrowEnchMod: 0.1
+StatusRandomMax: 3
+RequiredDamageDueToMobs: 0.3
+DeathPenaltyWorlds:
+    - world
+Penalty:
+    LevelLose: true
+    ClearRace: false
+    ResetStatus: true
+    MakeUp: true
+MakeUpSkills:
+    - ReturnsByDeath
+MakeUpMod: 0.3
